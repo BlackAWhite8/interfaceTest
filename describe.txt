@@ -1,2 +1,2 @@
 create table control(row_id integer primary key autoincrement, userID integer, request_time text)
-это описание созданной таблицы в базе данных для проверки
+это описание созданной таблицы
